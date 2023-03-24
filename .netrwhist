@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/gz/test/learn'
+let g:netrw_dirhist_1='/Users/gz/test/learn/src/views'
+let g:netrw_dirhist_0='/Users/gz/test/learn/src'
+let g:netrw_dirhist_9='/Users/gz/test/learn'
+let g:netrw_dirhist_8='/Users/gz/test/learn/src/router'
+let g:netrw_dirhist_7='/Users/gz/test/learn/src/views'
+let g:netrw_dirhist_6='/Users/gz/test/learn/src'
+let g:netrw_dirhist_5='/Users/gz/test/learn'
+let g:netrw_dirhist_4='/Users/gz/test/learn/src/text.txt'
+let g:netrw_dirhist_3='/Users/gz/test/learn/src'
