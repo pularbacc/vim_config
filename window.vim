@@ -16,14 +16,15 @@ set nu
 hi LineNr ctermfg=237
 
 " line color
-hi StatusLine ctermbg=250 ctermfg=235
+"hi StatusLine ctermbg=250 ctermfg=235
 
 " unactive window status
 hi StatusLineNC ctermfg=233 ctermbg=25
 
 " wildmenu
 set wildmenu
-set wildmode=longest:full,full
+"set wildmode=longest:full,full
+set wildmode=list:longest,list:full
 hi Wildmenu ctermbg=250
 
 

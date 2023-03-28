@@ -1,10 +1,12 @@
 call plug#begin()
 " nerdtree
-Plug 'preservim/NERDTree'
-Plug 'Xuyuanp/nerdtree-git-plugin'
+"Plug 'preservim/NERDTree'
+"Plug 'Xuyuanp/nerdtree-git-plugin'
+
+Plug 'francoiscabrol/ranger.vim'
 
 " highlight vue 
-Plug 'leafOfTree/vim-vue-plugin'
+"Plug 'leafOfTree/vim-vue-plugin'
 
 " auto indent tab width
 Plug 'vim-scripts/matchindent.vim'
@@ -19,4 +21,7 @@ Plug 'Yggdroot/indentLine'
 
 "Plug 'junegunn/fzf'
 "Plug 'junegunn/fzf.vim'
+
+Plug 'junegunn/fzf.vim'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 call plug#end()

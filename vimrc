@@ -11,14 +11,14 @@ let configs = [
 \ "indent",
 \ "mode",
 \ "move",
-\ "nerdtree",
-\ "nerdtree_git",
 \ "project",
 \ "script",
 \ "search",
 \ "shortcut",
 \ "system",
-\ "window"
+\ "window",
+\ "netrw",
+\ "fzf"
 \]
 
 for config in configs

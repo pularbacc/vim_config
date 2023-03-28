@@ -3,7 +3,7 @@
 " :sh : open shell
 
 " enable mouse click
-" set mouse=a  
+set mouse=a  
 
 " copy to clipboard
 set clipboard=unnamed
